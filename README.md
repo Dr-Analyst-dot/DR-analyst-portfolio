@@ -1,5 +1,5 @@
 # Dr. Analyst Portfolio
-![Dr. Analyst Logo](logo.png)
+![Dr. Analyst Logo](log.png)
 
 ---
 
